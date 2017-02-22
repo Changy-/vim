@@ -1,12 +1,11 @@
-# vim配置文件
+# Vim config
 
 
-
-### 运行截图
+### screenshot
 
 ![screenshot.png](screenshot.png)
 
-### 安装方法：
+### Steps：
 
 `git clone git://github.com/Changy-/vim.git`
 
@@ -14,22 +13,21 @@
 
 `sh -x setup.sh`
 
-###功能:
-1.支持c,c++,java,python一键编译
+###Functions:
+1.c,c++,java,python compile
 
-2.支持代码补全
+2.Code completion
 
-3.支持debug
+3.can debug
 
-4.支持全局复制粘贴
+4.support global copy/paste
 
-5.支持ctags
+5.support ctags
 
 ......
 
-###常用快捷键
-基础快捷键与vim相同, 如若是vim新手,可以再终端输入vimtutor,学习30分钟就上手了
 
-F5 编译运行 ,  F8 debug
 
-详细用法请看~/.vimrc
+F5 compile and run ,  F8 debug
+
+more details, please look ~/.vimrc
